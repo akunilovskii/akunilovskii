@@ -1,4 +1,4 @@
-### Hi I'm a Front End software developer in the making 👋
+### Hi I'm a Front End software developer 👋
 
 ## STACK
 

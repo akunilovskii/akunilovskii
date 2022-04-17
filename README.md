@@ -1,4 +1,4 @@
-### Hi I'm Alex, front end (React, Javascript) developer 👋
+### Hi I'm Alex, front-end (React, Javascript) developer 👋
 
 ## STACK
 

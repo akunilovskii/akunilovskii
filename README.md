@@ -1,4 +1,4 @@
-### Hi I'm a Front End software developer 👋
+### Hi I'm Alex, front end (React, Javascript) developer 👋
 
 ## STACK
 
